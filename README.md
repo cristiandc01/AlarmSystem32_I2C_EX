@@ -6,7 +6,7 @@ It is based on P82B715 I2C Extender Chip.
 
 ## The PCB
 <TABLE><tr>
-<td><img src="https://github.com/cristiandc01/AlarmSystem32_I2C_EX/blob/main/Images/AlarmSystem32I2CEx_PCB_FRONT.png" width="400"></td>
-<td><img src="https://github.com/cristiandc01/AlarmSystem32_I2C_EX/blob/main/Images/AlarmSystem32I2CEx_PCB_REAR.png" width="400"></td>
+<td><img src="https://github.com/cristiandc01/AlarmSystem32_I2C_EX/blob/main/Images/AlarmSystem32I2CEx_PCB_FRONT_rev12.png" width="400"></td>
+<td><img src="https://github.com/cristiandc01/AlarmSystem32_I2C_EX/blob/main/Images/AlarmSystem32I2CEx_PCB_REAR_rev12.png" width="400"></td>
 </tr>
 </TABLE>
